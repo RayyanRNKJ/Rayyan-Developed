@@ -211,7 +211,7 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	background: url(image/signature.jpg)
+	background-image: url("/images/signature.jpg");
 	background-size: cover;
 	position: relative;
 }
