@@ -211,7 +211,7 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	
+	background-image: url("rrrr.jpg");
 	background-size: cover;
 	position: relative;
 }
